@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mask-phone-number/static/css/main.5be3d890.chunk.css",
+    "main.js": "/mask-phone-number/static/js/main.43849fcf.chunk.js",
+    "main.js.map": "/mask-phone-number/static/js/main.43849fcf.chunk.js.map",
+    "runtime-main.js": "/mask-phone-number/static/js/runtime-main.eb4517c3.js",
+    "runtime-main.js.map": "/mask-phone-number/static/js/runtime-main.eb4517c3.js.map",
+    "static/js/2.1f773bba.chunk.js": "/mask-phone-number/static/js/2.1f773bba.chunk.js",
+    "static/js/2.1f773bba.chunk.js.map": "/mask-phone-number/static/js/2.1f773bba.chunk.js.map",
+    "index.html": "/mask-phone-number/index.html",
+    "static/css/main.5be3d890.chunk.css.map": "/mask-phone-number/static/css/main.5be3d890.chunk.css.map",
+    "static/js/2.1f773bba.chunk.js.LICENSE.txt": "/mask-phone-number/static/js/2.1f773bba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb4517c3.js",
+    "static/js/2.1f773bba.chunk.js",
+    "static/css/main.5be3d890.chunk.css",
+    "static/js/main.43849fcf.chunk.js"
+  ]
+}
